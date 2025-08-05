@@ -3,6 +3,7 @@
   # Set environment variables for App Platform
   ENV N8N_HOST=0.0.0.0
   ENV N8N_PORT=8080
+  ENV WEBHOOK_URL=https://rexi-app-zpoba.ondigitalocean.app
 
   EXPOSE 8080
 
