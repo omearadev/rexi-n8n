@@ -2,10 +2,14 @@
     "name": "rexi-n8n",
     "version": "1.0.0",
     "description": "Rexi AI Agent on n8n",
+    "main": "index.js",
     "scripts": {
       "start": "n8n start"
     },
     "dependencies": {
       "n8n": "latest"
+    },
+    "engines": {
+      "node": ">=18.0.0"
     }
   }
