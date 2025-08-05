@@ -1,0 +1,11 @@
+  {
+    "name": "rexi-n8n",
+    "version": "1.0.0",
+    "description": "Rexi AI Agent on n8n",
+    "scripts": {
+      "start": "n8n start"
+    },
+    "dependencies": {
+      "n8n": "latest"
+    }
+  }
